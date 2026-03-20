@@ -51,3 +51,6 @@ coverage/
 
 # Logs
 *.log
+
+# data
+data/
