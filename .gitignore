@@ -54,3 +54,9 @@ coverage/
 
 # data
 data/
+
+# courses
+course/
+
+# DQM
+DQM/
